@@ -1,0 +1,12 @@
+C:\Users\TOPTECH\source\C#\project 5 clock\obj\Debug\project 5 clock.csproj.AssemblyReference.cache
+C:\Users\TOPTECH\source\C#\project 5 clock\obj\Debug\project_5_clock.Form1.resources
+C:\Users\TOPTECH\source\C#\project 5 clock\obj\Debug\project_5_clock.Properties.Resources.resources
+C:\Users\TOPTECH\source\C#\project 5 clock\obj\Debug\project 5 clock.csproj.GenerateResource.cache
+C:\Users\TOPTECH\source\C#\project 5 clock\obj\Debug\project 5 clock.csproj.CoreCompileInputs.cache
+C:\Users\TOPTECH\source\C#\project 5 clock\bin\Debug\project 5 clock.exe.config
+C:\Users\TOPTECH\source\C#\project 5 clock\bin\Debug\project 5 clock.exe
+C:\Users\TOPTECH\source\C#\project 5 clock\bin\Debug\project 5 clock.pdb
+C:\Users\TOPTECH\source\C#\project 5 clock\obj\Debug\project 5 clock.exe
+C:\Users\TOPTECH\source\C#\project 5 clock\obj\Debug\project 5 clock.pdb
+C:\Users\TOPTECH\source\C#\project 5 clock\bin\Debug\Guna.UI2.dll
+C:\Users\TOPTECH\source\C#\project 5 clock\obj\Debug\project .946F5778.Up2Date
